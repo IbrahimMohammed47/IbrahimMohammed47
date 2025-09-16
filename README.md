@@ -5,7 +5,7 @@ Hi there! I'm Ibrahim Mohammed, a backend developer with a passion for creating 
 
 - 🔭 I’m currently working on **Building backends for Generative AI based projects**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Elixir**
 
 - 💬 Ask me about **Nodejs, Java**
 
