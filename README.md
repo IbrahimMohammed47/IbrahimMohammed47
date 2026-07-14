@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Mohammed</h1>
 <h3 align="center">A backend developer</h3>
 
-Hi there! I'm Ibrahim Mohammed, a backend developer with a passion for creating scalable, efficient software solutions. I have a knack for solving complex problems, designing APIs, and implementing database architectures that power modern web applications. Constantly learning and striving for excellence, I stay up-to-date with the latest industry trends and best practices to deliver high-quality software products. Let's build something great together!
+Hi there! I’m Ibrahim Mohammed, a software engineer passionate about building scalable backends, agent harnesses, and reliable AI workflows. I enjoy solving complex problems, designing robust APIs and database architectures, and integrating intelligent agents into modern applications. I’m constantly learning and exploring advances in backend engineering and AI to build efficient, production-ready systems. Let’s build something great—and intelligent—together!
 
-- 🔭 I’m currently working on **Building backends for Generative AI based projects**
+- 🔭 I’m currently working on **Building backends for AI based projects**
 
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Nodejs, Java**
 
