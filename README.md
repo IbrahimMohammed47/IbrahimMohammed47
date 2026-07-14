@@ -7,7 +7,7 @@ Hi there! I’m Ibrahim Mohammed, a software engineer passionate about building 
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Nodejs, Java**
+- 💬 Ask me about **Nodejs, Typescript, AI workflows, Agents**
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
@@ -16,7 +16,7 @@ Hi there! I’m Ibrahim Mohammed, a software engineer passionate about building 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ibrahimmohamed47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimmohamed47" height="30" width="40" /></a>
-<a href="https://medium.com/@ibrahim47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ibrahim47" height="30" width="40" /></a>
+<a href="https://dev.to/ibrahim_mohammed_47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ibrahim_mohammed_47" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ibrahimmohammed47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ibrahimmohammed47" height="30" width="40" /></a>
 </p>
 
