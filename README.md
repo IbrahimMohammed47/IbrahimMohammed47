@@ -3,7 +3,8 @@ Hi there! I’m Ibrahim Mohammed, a software engineer passionate about building 
 
 
 ## 🌐 Socials:
-[![Dev.to](https://img.shields.io/badge/dev.to-white.svg?logo=Dev.to&logoColor=black&style=for-the-badge&logoSize=auto)]([https://x.com/ibrahim32597394](https://dev.to/ibrahim_mohammed_47))  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&logoSize=auto)](https://linkedin.com/in/https://linkedin.com/in/ibrahimmohamed47) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge&logoSize=auto)](https://x.com/ibrahim32597394) 
+[![Portfolio](https://img.shields.io/badge/portfolio-B8D7C8.svg?logoColor=black&style=for-the-badge&logoSize=auto)](https://ibrahimmohammed.dev)
+[![Dev.to](https://img.shields.io/badge/dev.to-white.svg?logo=Dev.to&logoColor=black&style=for-the-badge&logoSize=auto)](https://dev.to/ibrahim_mohammed_47)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&logoSize=auto)](https://linkedin.com/in/ibrahimmohamed47) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge&logoSize=auto)](https://x.com/ibrahim32597394) 
 
 
 ## 💻 Tech Stack:
